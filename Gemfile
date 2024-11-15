@@ -4,7 +4,7 @@ gemspec
 
 gem "rake"
 gem "minitest"
-gem "activerecord", "~> 8.0.0"
+gem "activerecord", "~> 7.2.2"
 gem "pg"
 gem "mysql2"
 gem "trilogy"
